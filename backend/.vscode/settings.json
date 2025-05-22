@@ -1,0 +1,9 @@
+{
+  "workbench.activityBar.orientation": "vertical",
+  "python.autoComplete.extraPaths": [
+    "E:\\Software\\PythonVersion\\Lib\\site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "E:\\Software\\PythonVersion\\Lib\\site-packages"
+  ]
+}

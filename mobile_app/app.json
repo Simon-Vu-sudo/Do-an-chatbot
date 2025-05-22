@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ecommerce-mobile-app",
+    "slug": "ecommerce-mobile-app",
+    "version": "0.1.0",
+    "runtimeVersion": "49.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "webpack"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router",
+      "expo-web-browser"
+    ]
+  }
+}
